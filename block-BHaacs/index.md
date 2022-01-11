@@ -21,3 +21,7 @@ Figure out the best possible view for the small screens.
 - Use any inter(https://fonts.google.com/specimen/Inter?query=inter) font-family for the layout.
 
 - Once you are done with the assignment connect with the mentor and get the code reviewed.
+
+
+
+
